@@ -16,3 +16,10 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+![image tooltip here](/assets/image.jpg)
+
+header {
+  background-image: ![image tooltip here](/assets/image.jpg);
+}
+
