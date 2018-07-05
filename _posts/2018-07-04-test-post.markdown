@@ -2,6 +2,6 @@
 layout: post
 title:  "Test Post"
 date:   2018-07-04 15:15:00 -0700
-categories: jekyll update
+categories: 
 ---
 A very chill time right now. Just sitting on the couch with my son as I doodle.
